@@ -26,7 +26,7 @@ namespace es_37_bubbleSort
                 scambi = false;
                 for(int i = 0; i < cognomi.Length -1; i++)
                 {
-                    if (nomi[i].CompareTo(nomi[i+1])> 0 || nomi[i] == nomi[i+1] || cognomi[i].CompareTo(cognomi[i+1])>0)
+                    if (nomi[i].CompareTo(nomi[i+1])> 0 || nomi[i] == nomi[i+1] && cognomi[i].CompareTo(cognomi[i+1])>0)
                     {
                         scambiare(ref nomi[i], ref nomi[i + 1]);
                         scambiare(ref cognomi[i], ref cognomi[i + 1]);
