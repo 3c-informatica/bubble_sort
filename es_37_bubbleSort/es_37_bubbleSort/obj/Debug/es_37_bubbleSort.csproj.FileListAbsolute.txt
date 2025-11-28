@@ -1,0 +1,8 @@
+C:\Users\e.andru.3864\Desktop\es_37_bubbleSort\es_37_bubbleSort\bin\Debug\es_37_bubbleSort.exe.config
+C:\Users\e.andru.3864\Desktop\es_37_bubbleSort\es_37_bubbleSort\bin\Debug\es_37_bubbleSort.exe
+C:\Users\e.andru.3864\Desktop\es_37_bubbleSort\es_37_bubbleSort\bin\Debug\es_37_bubbleSort.pdb
+C:\Users\e.andru.3864\Desktop\es_37_bubbleSort\es_37_bubbleSort\obj\Debug\es_37_bubbleSort.csproj.AssemblyReference.cache
+C:\Users\e.andru.3864\Desktop\es_37_bubbleSort\es_37_bubbleSort\obj\Debug\es_37_bubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\e.andru.3864\Desktop\es_37_bubbleSort\es_37_bubbleSort\obj\Debug\es_37_bubbleSort.exe
+C:\Users\e.andru.3864\Desktop\es_37_bubbleSort\es_37_bubbleSort\obj\Debug\es_37_bubbleSort.pdb
+C:\Users\e.andru.3864\Desktop\es_37_bubbleSort\es_37_bubbleSort\obj\Debug\es_37_bubbleSort.exe.config

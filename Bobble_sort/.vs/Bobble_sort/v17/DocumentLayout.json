@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\e.andru.3864\\Desktop\\Bobble_sort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B4E455-A10F-41C9-915A-1A457863D2F2}|Bobble_sort\\Bobble_sort.csproj|c:\\users\\e.andru.3864\\desktop\\bobble_sort\\bobble_sort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B4E455-A10F-41C9-915A-1A457863D2F2}|Bobble_sort\\Bobble_sort.csproj|solutionrelative:bobble_sort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\e.andru.3864\\Desktop\\Bobble_sort\\Bobble_sort\\Program.cs",
+              "RelativeDocumentMoniker": "Bobble_sort\\Program.cs",
+              "ToolTip": "C:\\Users\\e.andru.3864\\Desktop\\Bobble_sort\\Bobble_sort\\Program.cs",
+              "RelativeToolTip": "Bobble_sort\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T11:26:13.988Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
